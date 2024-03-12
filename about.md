@@ -2,7 +2,6 @@
 layout: page
 title: About
 ---
+This is a simple blog, used only for personal documentation of life and some technical learning notes.
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+If you are interested in this content, please feel free to contact me by email!
